@@ -1,0 +1,9 @@
+POST http://localhost:8081/configurations
+Content-Type: application/json
+
+{
+    "simple_targets": {
+        "uid": "teste19",
+        "topicName": "testeTopicName19"
+    }
+}

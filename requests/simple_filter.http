@@ -1,0 +1,12 @@
+POST http://localhost:8081/simple_filters
+Content-Type: application/json
+
+{
+    "uid": "teste20",
+    "validValue": "testeTopicName20",
+    "fieldPosition": "fieldPosition20"
+}
+
+### 
+
+GET http://localhost:8080/simple_targets

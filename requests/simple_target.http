@@ -1,0 +1,11 @@
+POST http://localhost:8081/simple_targets
+Content-Type: application/json
+
+{
+    "uid": "teste19",
+    "topicName": "testeTopicName19"
+}
+
+### 
+
+GET http://localhost:8080/simple_targets
